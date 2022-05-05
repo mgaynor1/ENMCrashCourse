@@ -1,21 +1,26 @@
 # ENM Crash Course
-<img align="right" src="ENMCrashCourseHex.png">   
-## ML Gaynor   
+<img align="right" src="ENMCrashCourseHex.png" width=150>   
+
+**ML Gaynor**   
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# Introduction  
+This repository contains ....
 
-![General Flowchart](Gaynorcrop.png)  
+
+# Introduction  
 
 
 From 2017 - 2021, I continuously developed workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
 
 I ended up creating a pipeline for investigating ecological niche. This can be used to address many questions. 
 
-**How to cite**:  These scripts have not been published, so if you intend to use them, please cite by linking the repository in your method section as github.com/mgaynor1/ENMCrashCourse-Scripts. For example "Models were developed for each species following available scripts (github.com/mgaynor1/ENMCrashCourse-Script)."
+**How to cite**:  These scripts have not been published, so if you intend to use them, please cite by linking the repository in your method section as github.com/mgaynor1/ENMCrashCourse-Scripts. For example "Models were developed for each species following available scripts (github.com/mgaynor1/ENMCrashCourse-Script)." Note, a modification comment is when code is completely rewritten but the general theme is followed. Adding your working directory, looping through multiple taxa, or minor edits to update code to the latest package versions does not make this work yours. 
 
-Note, a modification comment is when code is completely rewritten but the general theme is followed. Adding your working directory, looping through multiple taxa, or minor edits to update code to the latest package versions does not make this work yours. 
+# Overview   
+
+![General Flowchart](Gaynorcrop.png) 
+
 
 ## Contributions
 Contributions are indicated on each script, but to summarize, contributions to these scripts have been made by many, including but not limited to: Mike Belitz, Rhett Rautsaw, Maria Cortez, [Andre Naranjo](https://github.com/aanaranjo), [Lauren Whitehurst](https://github.com/laurenwhitehurst21), [Anthony Melton](https://github.com/meltonae), [Johanna Jantzen](https://github.com/jjantzen), Doug Soltis, and Pam Soltis.     
