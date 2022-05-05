@@ -1,7 +1,7 @@
 # Ecological Niche Modeling Crash Course
 <img align="right" src="ENMCrashCourseHex.png" width=150>   
 
-**ML Gaynor**   
+**Michelle L. Gaynor**   
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -11,7 +11,7 @@ This repository contains ....
 # Introduction  
 
 
-From 2017 - 2021, I continuously developed workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
+From 2017 - 2022, I continuously developed workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
 
 I ended up creating a pipeline for investigating ecological niche. This can be used to address many questions. 
 
@@ -21,11 +21,14 @@ I ended up creating a pipeline for investigating ecological niche. This can be u
 
 ![General Flowchart](Gaynorcrop.png) 
 
+## Setup
+If you are new to R-based coding, I suggest you start with [my Biodiversity Literacy in Undergraduate Education (BLUE) module here](http://mlgaynor.com/BLUE-Intro2RwithBiodiversityData/_book/general-information.html). 
+
 
 ## Contributions
 Contributions are indicated on each script, but to summarize, contributions to these scripts have been made by many, including but not limited to: Mike Belitz, Rhett Rautsaw, Maria Cortez, [Andre Naranjo](https://github.com/aanaranjo), [Lauren Whitehurst](https://github.com/laurenwhitehurst21), [Anthony Melton](https://github.com/meltonae), [Johanna Jantzen](https://github.com/jjantzen), Doug Soltis, and Pam Soltis.     
      
-## Additional Resources   
+# Additional Resources   
 [iDigBio API Working Group](https://biodiversity-specimen-data.github.io/specimen-data-use-case/)     
 [QGIS Introduction - RhettRautsaw/GIS_Tutorial](https://github.com/RhettRautsaw/GIS_Tutorial)           
 [SDM Best Practices](https://github.com/plantarum/sdm-best-practices/wiki)    
