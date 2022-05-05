@@ -1,9 +1,9 @@
 # ENM Crash Course
 ![General Flowchart](Gaynorcrop.png)
 
-[![](https://img.shields.io/badge/License-CC%20BY-blue)](https://creativecommons.org/licenses/by/4.0/)
+[![](https://img.shields.io/badge/License-CC%20BY--NC--SA-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Introduction
+# Introduction
 From 2017 - 2021, I continuously developed workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
 
 I ended up creating a pipeline for investigating ecological niche. This can be used to address many questions. 
