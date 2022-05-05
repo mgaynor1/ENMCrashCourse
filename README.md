@@ -1,4 +1,6 @@
 # ENM Crash Course
+![General Flowchart](Gaynorcrop.png)
+
 From 2017 - 2021, I continuously developed workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. 
 
 You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
