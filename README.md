@@ -1,4 +1,4 @@
-# ENM Crash Course
+# Ecological Niche Modeling Crash Course
 <img align="right" src="ENMCrashCourseHex.png" width=150>   
 
 **ML Gaynor**   
