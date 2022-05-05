@@ -1,5 +1,6 @@
 # ENM Crash Course
-![Hex](ENMCrashCourseHex.png)
+<img align="right" src="ENMCrashCourseHex.png">   
+## ML Gaynor   
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
