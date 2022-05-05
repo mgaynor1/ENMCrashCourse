@@ -3,7 +3,7 @@
 
 **Michelle L. Gaynor**   
 
-[![](https://img.shields.io/badge/License-CC%20BY--NC--SA-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This repository contains ....
 
