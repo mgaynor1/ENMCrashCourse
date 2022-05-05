@@ -1,9 +1,9 @@
 # ENM Crash Course
 ![General Flowchart](Gaynorcrop.png)
 
-From 2017 - 2021, I continuously developed workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. 
+From 2017 - 2021, I continuously developed workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
 
-You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
+I ended up creating a pipeline for investigating ecological niche. This can be used to address many questions. 
 
 **How to cite**:  These scripts have not been published, so if you intend to use them, please cite by linking the repository in your method section as github.com/mgaynor1/ENMCrashCourse-Scripts. For example "Models were developed for each species following available scripts (github.com/mgaynor1/ENMCrashCourse-Script)."
 
