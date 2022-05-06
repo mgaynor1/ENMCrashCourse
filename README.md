@@ -6,7 +6,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 <center>
-🚧 This repository is currently under construction 🚧
+🚧 This repository is currently under construction 🚧.  
+      
 🚧 I am currently updatiing this material 🚧
 </center>
 
