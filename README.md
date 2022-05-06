@@ -7,7 +7,8 @@
 
 <center>
 🚧 This repository is currently under construction 🚧
-
+🚧 I am currently updatiing this material 🚧
+</center>
 
 # Introduction  
 
@@ -16,12 +17,12 @@ From 2017 - 2022, I continuously developed workshop material for the "Using Digi
 
 I ended up creating a pipeline for investigating ecological niche. This can be used to address many questions. I Contributions by others are indicated on each script and an incomplete list can be found below. 
 
-**How to cite**:  These scripts have not been published just yet, so if you intend to use them, please cite by linking the repository in your method section as github.com/mgaynor1/ENMCrashCourse-Scripts. For example "Models were developed for each species following available scripts (github.com/mgaynor1/ENMCrashCourse-Script)." Note, a modification comment is when code is completely rewritten but the general theme is followed. Adding your working directory, looping through multiple taxa, or minor edits to update code to the latest package versions does not make this work yours.
+**How to cite**:  These scripts have not been published just yet, so if you intend to use them, please cite by linking the repository in your method section as github.com/mgaynor1/ENMCrashCourse. For example "Models were developed for each species following available scripts (github.com/mgaynor1/ENMCrashCourse)." Note, a modification comment is when code is completely rewritten but the general theme is followed. Adding your working directory, looping through multiple taxa, or minor edits to update code to the latest package versions does not make this work yours.
 
 In-prep publication:
 Patten NN, Gaynor ML, Soltis DE, and Soltis PS. Geographic and Taxonomic Occurrence R-Based Scrubbing (gatoRs): An R package and reproducible workflow for processing biodiversity data. In prep.
      
- PS. Im currently a PhD student, please feel welcome to reach out if you want to collaborate. 
+PS. Im currently a PhD student, please feel welcome to reach out if you want to collaborate. 
      
 # Overview   
 
