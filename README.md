@@ -28,12 +28,31 @@ Patten NN, Gaynor ML, Soltis DE, and Soltis PS. Geographic and Taxonomic Occurre
 PS. Im currently a PhD student, please feel welcome to reach out if you want to collaborate. 
      
 # Overview   
+Note: Data Download, Data Cleaning + Georeferencing, Climatic Niche Processing, and Ecological Niche Modeling all have manual activities outside of R. These can all be found in the "Manual/" folder, while all R activities can be found in the "CrashCourse/" folder. 
 
 ![General Flowchart](Gaynorcrop.png) 
 
 ## Setup
 If you are new to R-based coding, I suggest you start with [my Biodiversity Literacy in Undergraduate Education (BLUE) module here](http://mlgaynor.com/BLUE-Intro2RwithBiodiversityData/_book/general-information.html). 
 
+## 01 - Data Download    
+
+
+## 02 - Data Cleaning   
+
+
+Activity from Gaynor, M. (2020). Cleaning Biodiversity Data: A Botanical Example Using Excel or RStudio. Biodiversity Literacy in Undergraduate Education, QUBES Educational Resources. doi:10.25334/DRGD-F069.
+
+
+## Georeferencing    
+
+## 03 - Climate Layer Processing    
+
+## 04 - Climatic Niche    
+
+## 05 - Ecological Niche Modeling   
+
+## 06 - ENM Processing    
 
 # Contributions
 Contributions are indicated on each script, but to summarize, contributions to these script or presentations have been made by many, including but not limited to: [Natalie Patten](https://github.com/nataliepatten), [Mike Belitz](https://github.com/mbelitz), [Rhett Rautsaw](https://github.com/RhettRautsaw), Maria Cortez, [Andre Naranjo](https://github.com/aanaranjo), [Lauren Whitehurst](https://github.com/laurenwhitehurst21), [Anthony Melton](https://github.com/meltonae), [Johanna Jantzen](https://github.com/jjantzen), Blaine Marchant, Charlotte Germain-Aubrey, Doug Soltis, and Pam Soltis.     
