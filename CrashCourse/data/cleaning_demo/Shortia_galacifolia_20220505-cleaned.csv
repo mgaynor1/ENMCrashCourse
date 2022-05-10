@@ -1,6 +1,46 @@
 "ID","name","basis","coordinateUncertaintyInMeters","informationWithheld","lat","long","date","year","month","day"
+"0ec13998-d538-4fff-a0c9-72f3de1df423","Shortia galacifolia","PreservedSpecimen",NA,NA,35.24,-82.57,2018-02-27,2018,2,27
 "734e8345-af9a-44d3-9ae2-ba9bdfa1549c","Shortia galacifolia","PreservedSpecimen",210,NA,35.08,-82.9,1976-06-29,1976,6,29
 "f63a40e5-2265-453d-81a5-2da43346478e","Shortia galacifolia","PreservedSpecimen",NA,NA,35.75,-82.06,2012-03-21,2012,3,21
+"3499605753","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.09,-82.98,2022-02-02,2022,2,2
+"3743068432","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.89,-83,2022-02-26,2022,2,26
+"3743322439","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.16,-83,2022-02-16,2022,2,16
+"3712563952","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.43,-82.58,2022-03-08,2022,3,8
+"3712717746","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.63,-82.51,2022-03-06,2022,3,6
+"3742985527","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.78,-82.51,2022-03-11,2022,3,11
+"3743109451","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.65,-82.4,2022-03-06,2022,3,6
+"3743115425","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.94,-82.81,2022-03-05,2022,3,5
+"3743153433","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.67,-82.45,2022-03-16,2022,3,16
+"3743184634","Shortia galacifolia","HUMAN_OBSERVATION",28790,"Coordinate uncertainty increased to 28790m to protect threatened taxon",34.65,-82.89,2022-03-11,2022,3,11
+"3743222576","Shortia galacifolia","HUMAN_OBSERVATION",28706,"Coordinate uncertainty increased to 28706m to protect threatened taxon",35.29,-82.33,2022-03-11,2022,3,11
+"3743260466","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.9,-82.43,2022-03-10,2022,3,10
+"3746986601","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.05,-82.85,2022-03-18,2022,3,18
+"3747013873","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.8,-82.95,2022-03-22,2022,3,22
+"3747046224","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.87,-82.92,2022-03-22,2022,3,22
+"3747211542","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.82,-82.82,2022-03-17,2022,3,17
+"3747286530","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.16,-83.19,2022-03-18,2022,3,18
+"3747345199","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.81,-82.81,2022-03-22,2022,3,22
+"3759138178","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m at the request of the observer",35.6,-82.06,2022-03-27,2022,3,27
+"3759228325","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.73,-82.3,2022-03-29,2022,3,29
+"3759230488","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m at the request of the observer",34.96,-83.44,2022-03-30,2022,3,30
+"3759637525","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.53,-82.64,2022-03-31,2022,3,31
+"3759816326","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.82,-82.96,2022-03-26,2022,3,26
+"3760271397","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.76,-82.54,2022-03-30,2022,3,30
+"3764178415","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.86,-82.95,2022-03-29,2022,3,29
+"3764236437","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.92,-82.86,2022-03-19,2022,3,19
+"3764362145","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.46,-82.76,2022-03-19,2022,3,19
+"3764536889","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.92,-83.19,2022-03-25,2022,3,25
+"3759750209","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.74,-82.48,2022-04-16,2022,4,16
+"3759943756","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.87,-82.99,2022-04-05,2022,4,5
+"3759994139","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.92,-83.02,2022-04-16,2022,4,16
+"3760042812","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.88,-82.93,2022-04-05,2022,4,5
+"3760187127","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.49,-82.74,2022-04-06,2022,4,6
+"3764123437","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.84,-82.95,2022-04-05,2022,4,5
+"3764124476","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.18,-82.98,2022-04-21,2022,4,21
+"3764127427","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.85,-82.85,2022-04-02,2022,4,2
+"3764133437","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.84,-82.97,2022-04-05,2022,4,5
+"3764181460","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.92,-82.92,2022-04-05,2022,4,5
+"3764547437","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.94,-82.9,2022-04-05,2022,4,5
 "3039146090","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.1,-82.82,2021-01-02,2021,1,2
 "3044549847","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.77,-82.35,2021-01-22,2021,1,22
 "3044793799","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.79,-82.34,2021-01-22,2021,1,22
@@ -70,10 +110,12 @@
 "3302037939","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m at the request of the observer",34.81,-83.12,2021-05-31,2021,5,31
 "3302344310","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m at the request of the observer",34.8,-83.13,2021-05-31,2021,5,31
 "3302381641","Shortia galacifolia","HUMAN_OBSERVATION",28706,"Coordinate uncertainty increased to 28706m at the request of the observer",35.29,-82.77,2021-05-16,2021,5,16
-"3302451706","Shortia galacifolia","HUMAN_OBSERVATION",28790,"Coordinate uncertainty increased to 28790m to protect threatened taxon",34.64,-82.93,2021-06-09,2021,6,9
 "3307426561","Shortia galacifolia","HUMAN_OBSERVATION",28790,"Coordinate uncertainty increased to 28790m to protect threatened taxon",34.66,-82.83,2021-06-09,2021,6,9
 "3314198559","Shortia galacifolia","HUMAN_OBSERVATION",28706,"Coordinate uncertainty increased to 28706m to protect threatened taxon",35.28,-83.05,2021-06-13,2021,6,13
 "3320938576","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.01,-83.1,2021-06-22,2021,6,22
+"3355598154","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.07,-82.84,2021-09-05,2021,9,5
+"3415656959","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.01,-83.31,2021-09-24,2021,9,24
+"3407934956","Shortia galacifolia","HUMAN_OBSERVATION",28790,"Coordinate uncertainty increased to 28790m to protect threatened taxon",34.63,-83.56,2021-10-31,2021,10,31
 "2563643920","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.97,-82.95,2020-01-29,2020,1,29
 "2576260408","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.69,-82.2,2020-02-25,2020,2,25
 "2576265445","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.89,-82.9,2020-02-25,2020,2,25
@@ -90,6 +132,7 @@
 "2649806698","Shortia galacifolia","HUMAN_OBSERVATION",65,NA,35.66,-82.34,2020-03-19,2020,3,19
 "2813865602","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m at the request of the observer",35.76,-82.05,2020-03-25,2020,3,25
 "2882936358","Shortia galacifolia","HUMAN_OBSERVATION",28706,"Coordinate uncertainty increased to 28706m at the request of the observer",35.39,-82.66,2020-03-22,2020,3,22
+"3499609549","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.89,-82.3,2020-03-06,2020,3,6
 "2620006102","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.45,-82.7,2020-04-27,2020,4,27
 "2634263579","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.63,-82.26,2020-04-25,2020,4,25
 "2626286536","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.42,-82.63,2020-05-14,2020,5,14
@@ -121,12 +164,13 @@
 "2429199779","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m at the request of the observer",35.1,-82.76,2019-04-17,2019,4,17
 "2429209737","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m at the request of the observer",35.15,-82.91,2019-04-06,2019,4,6
 "3112384413","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.09,-82.99,2019-04-06,2019,4,6
+"3337436329","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.43,-82.62,2019-04-06,2019,4,6
+"3499582418","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.75,-82.44,2019-05-31,2019,5,31
 "2429209697","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m to protect threatened taxon",35.7,-82.48,2019-06-01,2019,6,1
 "2429211807","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35,-82.84,2019-06-21,2019,6,21
 "2429216075","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m at the request of the observer",34.87,-82.98,2019-07-07,2019,7,7
 "2465158249","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.98,-83.16,2019-09-18,2019,9,18
 "2563473676","Shortia galacifolia","HUMAN_OBSERVATION",28734,"Coordinate uncertainty increased to 28734m to protect threatened taxon",35.14,-82.75,2019-11-30,2019,11,30
-"1899749309","Shortia galacifolia","HUMAN_OBSERVATION",28649,"Coordinate uncertainty increased to 28649m at the request of the observer",35.72,-82.1,2018-03-21,2018,3,21
 "1899750615","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.58,-82.68,2018-04-27,2018,4,27
 "2626255932","Shortia galacifolia","HUMAN_OBSERVATION",28706,"Coordinate uncertainty increased to 28706m to protect threatened taxon",35.24,-82.63,2018-04-13,2018,4,13
 "1457584802","Shortia galacifolia","HUMAN_OBSERVATION",28635,"Coordinate uncertainty increased to 28635m to protect threatened taxon",35.75,-82.53,2017-02-14,2017,2,14
@@ -140,6 +184,7 @@
 "1453078406","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.41,-82.78,2016-03-31,2016,3,31
 "1500216608","Shortia galacifolia","HUMAN_OBSERVATION",28677,"Coordinate uncertainty increased to 28677m to protect threatened taxon",35.55,-82.63,2016-04-08,2016,4,8
 "2579312703","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.97,-82.86,2015-03-28,2015,3,28
+"3338110552","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",35,-82.98,2015-03-15,2015,3,15
 "1088939328","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.89,-82.94,2015-04-04,2015,4,4
 "1315075097","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.95,-82.92,2014-04-18,2014,4,18
 "2465207935","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m at the request of the observer",34.86,-82.96,2014-04-06,2014,4,6
@@ -148,5 +193,5 @@
 "1805384284","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m to protect threatened taxon",34.91,-83.04,2010-03-27,2010,3,27
 "3008448575","Shortia galacifolia","HUMAN_OBSERVATION",28762,"Coordinate uncertainty increased to 28762m at the request of the observer",34.98,-82.81,2010-03-25,2010,3,25
 "415983492","Shortia galacifolia","PRESERVED_SPECIMEN",NA,NA,35.05,-83.2,1948-06-10,1948,6,10
+"3749715480","Shortia galacifolia","PRESERVED_SPECIMEN",NA,NA,35.02,-83.02,1897-04-07,1897,4,7
 "415983490","Shortia galacifolia","PRESERVED_SPECIMEN",5000,NA,34.97,-82.94,1896-03-31,1896,3,31
-"2251704518","Shortia galacifolia","PRESERVED_SPECIMEN",31683,NA,35.68,-82.05,1879-04-01,1879,4,1

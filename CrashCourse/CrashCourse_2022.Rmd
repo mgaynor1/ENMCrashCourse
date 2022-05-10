@@ -18,9 +18,13 @@ library(kableExtra)
 library(pander)
 ```
 
-# Botany 2022 {.tabset .tabset-fade .tabset-pills}
+# Ecological Niche Modeling Crash Course {.tabset .tabset-fade .tabset-pills}
 
 ## Background   
+From 2017 - 2022, I continuously added to and created new workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. You can see the [latest workshop version here.](https://github.com/soltislab/BotanyENMWorkshops).
+
+
+
 
 ### Word bank   
 | Term | Definition |
@@ -215,17 +219,14 @@ If you have additional issues, please let us know!
 
 ## Download Occurrence Data
 
-Modified and created by ML Gaynor.
+ML Gaynor.
 
 ### Load packages
 
 ```{r message=FALSE, warning=FALSE}
-library(dplyr) 
-library(tidyr) 
-library(plyr) 
+library(tidyverse)
 library(spocc) 
 library(ridigbio) 
-library(tibble) 
 library(rbison)
 ```
 
@@ -277,10 +278,11 @@ iDigBio_GU_family_USA <- idig_search_records(rq_input, limit=1000)
 #### Save as csv files
 
 ```{r}
-write.csv(iDigBio_GU, "data/download/iDigBio_GU_20210614.csv",
+write.csv(iDigBio_GU, "data/download/iDigBio_GU_20220505.csv", 
           row.names = FALSE)
-write.csv(iDigBio_GU_family, "data/download/iDigBio_GU_family_20210614.csv", 
+write.csv(iDigBio_GU_family, "data/download/iDigBio_GU_family_20220505.csv", 
           row.names = FALSE)
+
 ```
 
 ### Data download using spocc\_combined
@@ -298,10 +300,14 @@ Pyxidanthera_brevifolia <- c("Pyxidanthera brevifolia", "Pyxidanthera barbulata 
 This function downloads records for all names listed from iDigBio, GBIF, and BISON. It keeps specific columns from each database.
 
 ```{r}
-spocc_combine(Shortia_galacifolia, "data/download/raw/Shortia_galacifolia_raw_20210614.csv")
-spocc_combine(Galax_urceolata, "data/download/raw/Galax_urceolata_raw_20210614.csv")
-spocc_combine(Pyxidanthera_barbulata, "data/download/raw/Pyxidanthera_barbulata_raw_20210614.csv")
-spocc_combine(Pyxidanthera_brevifolia, "data/download/raw/Pyxidanthera_brevifolia_raw_20210614.csv")
+sspocc_combine(Shortia_galacifolia,
+               "data/download/raw/Shortia_galacifolia_raw_20220505.csv")
+spocc_combine(Galax_urceolata, 
+              "data/download/raw/Galax_urceolata_raw_20220505.csv")
+spocc_combine(Pyxidanthera_barbulata, 
+              "data/download/raw/Pyxidanthera_barbulata_raw_20220505.csv")
+spocc_combine(Pyxidanthera_brevifolia,
+              "data/download/raw/Pyxidanthera_brevifolia_raw_20220505.csv")
 ```
 
 
@@ -336,7 +342,7 @@ kable(metadatainfo) %>%
   
 ## Occurrence Data Cleaning
 
-Modified and created by ML Gaynor.
+ML Gaynor.
 
 ### Load Packages
 
@@ -345,6 +351,7 @@ library(dplyr)
 library(tidyr)
 library(raster)
 library(sp)
+library(sf)
 library(spatstat)
 library(spThin)
 library(fields)
@@ -603,7 +610,13 @@ df <- df %>%
 nrow(df)
 ```
 
-### [ 6. Plot Cleaned Records ]{style="color: blue;"}
+### [ 6. Plot Cleaned Records ]{style="color: blue;"}   
+   
+#### Make points spatial    
+
+```{r}
+df_fixed <- st_as_sf(df, coords = c("long", "lat"), crs = 4326)
+```
 
 #### Set basemap
 
@@ -620,9 +633,9 @@ Here we are using *ggplot2* and **ggspatial** to plot our occurrence records. We
 simple_map <- ggplot() +
               USA +
               state +
-              geom_point(df, 
-                         mapping = aes(x = long, y = lat), 
-                         col = "blue") +
+              geom_sf(df_fixed, 
+                       mapping = aes(col = name), 
+                       col = "blue") +
               coord_sf(xlim = c(min(df$long) - 3, max(df$long) + 3),
                        ylim = c(min(df$lat) - 3, max(df$lat) + 3)) +
               xlab("Longitude") +
@@ -652,6 +665,37 @@ alldf <- list.files("data/cleaning_demo/raw/", full.names = TRUE,
 alldf <- lapply(alldf, read.csv)
 alldf <- do.call(rbind, alldf)
 ```
+
+#### Plot all records    
+Visually inspect records to verify no additional records should be removed. 
+
+```{r}
+## Plot all records
+### Make points spatial 
+alldf_fixed <- st_as_sf(alldf, coords = c("long", "lat"), crs = 4326)
+
+### Set basemap
+USA <- borders(database = "usa", colour = "gray50", fill = "gray50")
+state <- borders(database = "state", colour = "black", fill = NA)
+
+### Plot 
+all_map <- ggplot() +
+            USA +
+            state +
+            geom_sf(alldf_fixed, 
+                    mapping = aes(col = factor(name))) +
+            coord_sf(xlim = c(min(alldf$long) - 3, max(alldf$long) + 3),
+                     ylim = c(min(alldf$lat) - 3, max(alldf$lat) + 3)) +
+            xlab("Longitude") +
+            ylab("Latitude") +
+            annotation_scale() +
+            annotation_north_arrow(height = unit(1, "cm"), 
+                                   width = unit(1, "cm"), 
+                                   location = "tl")
+all_map
+```
+
+
 
 #### Select needed columns
 
