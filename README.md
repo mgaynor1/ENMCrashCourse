@@ -16,7 +16,7 @@
 
 From 2017 - 2022, I continuously added to and created new workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
 
-I ended up creating a pipeline for investigating ecological niche, which I am continuously updating as I learn more. This can be used to address many question. 
+I ended up updating and curating a pipeline for investigating ecological niche, which I am continuously updating as I learn more. This can be used to address many question. 
 
 Many of the presentations build upon the work of numerous past Soltis lab members, I list these members below but could be missing many that worked on this material before my time here. Contributions by others are indicated on each script and an incomplete list can be found below. 
 
