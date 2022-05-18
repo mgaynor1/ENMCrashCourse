@@ -28,17 +28,18 @@ Patten NN, Gaynor ML, Soltis DE, and Soltis PS. Geographic and Taxonomic Occurre
      
      
 # Overview   
-Note: Data Download, Data Cleaning + Georeferencing, Climatic Niche Processing, and Ecological Niche Modeling all have manual activities outside of R. These can all be found in the "Manual/" folder, while all R activities can be found in the "CrashCourse/" folder. 
 
 ![General Flowchart](Gaynorcrop.png) 
 
 ## Setup
-If you are new to R-based coding, I suggest you start with [my Biodiversity Literacy in Undergraduate Education (BLUE) module here](http://mlgaynor.com/BLUE-Intro2RwithBiodiversityData/_book/general-information.html). My coding style is a mix of [Data Carpentry](https://datacarpentry.org/) and [tidyverse](https://www.tidyverse.org/learn/), both of which have additional tutorials that can be used to learn this material. 
+If you are new to R-based coding, I suggest you start with [my Biodiversity Literacy in Undergraduate Education (BLUE) module here](http://mlgaynor.com/BLUE-Intro2RwithBiodiversityData/_book/general-information.html). My coding style is a mix of [Data Carpentry](https://datacarpentry.org/) and [tidyverse](https://www.tidyverse.org/learn/), both of which have additional tutorials that can be used to learn this material.  
+
+Note: Data Download, Data Cleaning + Georeferencing, Climatic Niche Processing, and Ecological Niche Modeling all have manual activities outside of R. These can all be found in the "Manual/" folder, while all R activities can be found in the "CrashCourse/" folder.   
 
 ## 01 - Data Download  
-🚧
+🚧   
 Manual Activity:    
-	*  https://www.idigbio.org/portal/search
+ -  https://www.idigbio.org/portal/search
 
 
 
@@ -47,7 +48,7 @@ Manual Activity:
 🚧
 
 Manual Activity:    
-	*  Gaynor, M. (2020). Cleaning Biodiversity Data: A Botanical Example Using Excel or RStudio. Biodiversity Literacy in Undergraduate Education, QUBES Educational Resources. doi:10.25334/DRGD-F069.
+ - Gaynor, M. (2020). Cleaning Biodiversity Data: A Botanical Example Using Excel or RStudio. Biodiversity Literacy in Undergraduate Education, QUBES Educational Resources. doi:10.25334/DRGD-F069.
 
 
 ## Georeferencing    
@@ -67,20 +68,20 @@ When converting descriptions into numeric units, uncertainty measurements can be
 Here we provide specimen records without geopoints and provide instructions for georeferencing.
 
 Additional tutorial:     
-	* Sorojsrisom, E., Johnson, M. (2022). Putting specimens on the map: An introduction to georeferencing. BCEENET- Biological Collections in Ecology & Evolution Network, QUBES Educational Resources. [doi:10.25334/CBTJ-PV50](https://doi.org/10.25334/CBTJ-PV50)     
-	* [GBIF Georeferencing guide](https://docs.gbif.org/georeferencing-best-practices/1.0/en/#:~:text=In%20georeferencing%2C%20we%20use%20uncertainty,error%20given%20as%20a%20distance.)        
+ - Sorojsrisom, E., Johnson, M. (2022). Putting specimens on the map: An introduction to georeferencing. BCEENET- Biological Collections in Ecology & Evolution Network, QUBES Educational Resources. [doi:10.25334/CBTJ-PV50](https://doi.org/10.25334/CBTJ-PV50)     
+ - [GBIF Georeferencing guide](https://docs.gbif.org/georeferencing-best-practices/1.0/en/#:~:text=In%20georeferencing%2C%20we%20use%20uncertainty,error%20given%20as%20a%20distance.)        
 
 ## 03 - Climate Layer Processing    
-🚧
+🚧    
 
 ## 04 - Climatic Niche    
-🚧
+🚧   
 
 ## 05 - Ecological Niche Modeling   
-🚧
+🚧   
 
 ## 06 - ENM Processing    
-🚧
+🚧   
 
 # Contributions
 Contributions are indicated on each script, but to summarize, contributions to these script or presentations have been made by many, including but not limited to: [Natalie Patten](https://github.com/nataliepatten), [Mike Belitz](https://github.com/mbelitz), [Rhett Rautsaw](https://github.com/RhettRautsaw), Maria Cortez, [Andre Naranjo](https://github.com/aanaranjo), [Lauren Whitehurst](https://github.com/laurenwhitehurst21), [Anthony Melton](https://github.com/meltonae), [Johanna Jantzen](https://github.com/jjantzen), Blaine Marchant, Charlotte Germain-Aubrey, Grant Godden, Doug Soltis, and Pam Soltis.     
