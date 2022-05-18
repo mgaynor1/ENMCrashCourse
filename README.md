@@ -86,7 +86,7 @@ Additional tutorial:
 # Contributions
 Contributions are indicated on each script, but to summarize, contributions to these script or presentations have been made by many, including but not limited to: [Natalie Patten](https://github.com/nataliepatten), [Mike Belitz](https://github.com/mbelitz), [Rhett Rautsaw](https://github.com/RhettRautsaw), Maria Cortez, [Andre Naranjo](https://github.com/aanaranjo), [Lauren Whitehurst](https://github.com/laurenwhitehurst21), [Anthony Melton](https://github.com/meltonae), [Johanna Jantzen](https://github.com/jjantzen), Blaine Marchant, Charlotte Germain-Aubrey, Grant Godden, Doug Soltis, and Pam Soltis.     
      
-# Related Open-Access Resources   
+# More Open-Access Resources   
 **[mgaynor1/CURE-FL-Plants](https://github.com/mgaynor1/CURE-FL-Plants)**       
 In Spring 2020, I helped teach a Course-based undergraduate research experience at the University of Florida titled 'CURE: Florida Plants and Climate Change'. This class was a 3 credit undergraduate course and it was co-taught with Pam and Doug Soltis. The goal of this research was to look at how climate change would impact the distribution of rare and endangered species currently residing at [Archbold Biological Station](https://www.archbold-station.org/html/lnkpgs/archlistedsp.html). This repository contains demo and project scripts, which are written in a way to loop through a long list of species. Much of these methods are still acceptable, however since this class, I improved this pipeline to defined accessible area with alpha hulls + buffers, rather than convex hulls. I also modified my methods for selecting climatic layers, ecological niche generation, and ecological niche model evaluation. Some of these scripts have also been shortened or simplified by an amazing undergraduate researcher NN Patten.
 
@@ -132,13 +132,13 @@ Ron and Erica also created some great demos/resources. Here are just some of my 
 
 
 **[soltislab/BotanyENMWorkshop](https://github.com/soltislab/BotanyENMWorkshops)**    
-This repository contains workshop material for "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. This contains the material used in the 2020 and 2021. Soon this will contain additional material for 2022. This workshop is often done in conjuction with Biotaphy, so this repository contains material outside of the scope of my work and my ENMCrashCourse. As an undergraduate in 2017, I learned all about ENMs with biodiversity occurrence data from Blaine Marchant. When I started as a graduate research assistant with iDigBio in Fall 2018, I started to modify this material to include new methods I was learning. With every additional workshop/course/office-hour I helped lead, I learned something new that I would incoporate into this material. In Spring 2020 and Summer 2021, I heavily revised this material so that it could be used by undergraduate researchers. Shortly, I will be revising this pipeline to incorporate Natalie's amazing package and reflect the methods we used to generate ENMs to investigate the impact of climate change on rare and endangered species currently residing at [Archbold Biological Station](https://www.archbold-station.org/html/lnkpgs/archlistedsp.html).    
+This repository contains workshop material for "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. This contains the material used in the 2020 and 2021. Soon this will contain additional material for 2022. This workshop is often done in conjuction with Biotaphy, so this repository contains material outside of the scope of my work and my ENMCrashCourse. As an undergraduate in 2017, I learned all about ENMs with biodiversity occurrence data from Blaine Marchant. When I started as a graduate research assistant with iDigBio in Fall 2018, I started to modify this material to include new methods I was learning. With every additional workshop/course/office-hour I helped lead, I learned something new that I would incoporate into this material. In Spring 2020 and Summer 2021, I heavily revised this material so that it could be used by undergraduate researchers. This summer (2022), I will be revising this pipeline to incorporate Natalie's amazing package and reflect the methods we used to generate ENMs to investigate the impact of climate change on rare and endangered species currently residing at [Archbold Biological Station](https://www.archbold-station.org/html/lnkpgs/archlistedsp.html).    
 
 **Gists**  
 Short snibits of code I generated related to using Digitized Natural History Collections data in research.
-- [Milton Tan](https://gist.github.com/mgaynor1/86cf5e5d741e3aa8a1a61c52bd667eb7)    
-      - Milton wanted to know how to download records with the ridigbio API based on Institution ID and Catelog Number. 
-- [spocc_combine loop](https://gist.github.com/mgaynor1/f51b6735afc442f1338f244e6e0f9a9a)
+- [Milton Tan](https://gist.github.com/mgaynor1/86cf5e5d741e3aa8a1a61c52bd667eb7)        
+      - Milton wanted to know how to download records with the ridigbio API based on Institution ID and Catelog Number.   
+- [spocc_combine loop](https://gist.github.com/mgaynor1/f51b6735afc442f1338f244e6e0f9a9a)     
       - One of my lab mates wanted to know how to use the spocc_combine function (which is an early edition of the gator_download() function) for a list of species. This gist shows how.
 
 
@@ -152,51 +152,4 @@ Short snibits of code I generated related to using Digitized Natural History Col
 [ryanafolk/eco-discretizer](https://github.com/ryanafolk/eco-discretizer)           
 [richiehodel/Amborella_ENM](https://github.com/richiehodel/Amborella_ENM)         
 [jjantzen/CommPhylogeneticsOSBS](https://github.com/jjantzen/CommPhylogeneticsOSBS)       
-
-## Papers to read.        
-### Introduction to Natural History Collections    
-* Soltis. 2017. Digitization of herbaria enables novel research. American Journal of Botany.     
-* Herberling et al. 2019. The changing uses of herbarium data in an era of global change: An overview using automated content analysis. BioScience.      
-* Nelson and Ellis. 2018. The history and impact of digitization and digital data mobilization on biodiversity research. Phil. Trans. R. Soc. B.       
-
-### Occurrence Data
-* Daru et al. 2017. Widespread sampling biases in herbaria revealed from large-scale digitization. New Phytologist.      
-* Zizka et al. 2019. CoordinateCleaner: Standardized cleaning of occurrence records from biological collection databases. Methods in Ecology and Evolution.       
-* Aiello-Lammens et al. 2015. spThin: an R package for spatial thinning of species occurrence records for use in ecological niche models. Ecography.              
-* Proosdij et al. 2016. Minimum required number of specimen records to develop accurate species distribution models. Ecography.     
-
-       
-### Climatic layers      
-* Barve et al. 2011. The crucial role of the accessible area in ecological niche modeling and species distribution modeling.  Ecological Modelling.       
-* Cobos et al. 2019. An exhaustive analysis of heuristic methods for variable selection in ecological niche modeling and species distribution modeling. Ecological Informatics.        
-
-
-### ENM methods 
-* Peterson. 2001. Predicting species' geographic distributions based on ecological niche modeling. The Condor.    
-* Muscarella et al. 2014. ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for MaxEnt ecological niche models. Methods in Ecology and Evolution.           
-* Sillero N. and A. M. Barbosa. 2020. Common mistakes in ecological niche models. International Journal of Geographical Information Science.           
-* Jiménez & Soberón. 2020. Leaving the area under the receiving operating characteristic curve behind: An evaluation method for species distribution modelling applications based on presence-only data. Methods in Ecology and Evolution.            
-* Cobos et al. 2019. kuenm: an R package for detailed development of ecological niche models using Maxent. PeerJ.           
-* Warren et al. 2010. ENMTools: a toolbox for comparative studies of environmental niche models. Ecography.          
-* Brown and Carnaval. 2019. A tale of two niche: methods, concepts, and evolution. Frontiers of Biogeography.    
-* Warren et al. 2021. The effects of climate change on Australia’s only endemic Pokémon: Measuring bias in species distribution models. Methods in Ecology and Evolution. 
- 
-
-### Applications of ENMs
-* Allen et al. 2019. Spatial Phylogenetics of Florida Vascular Plants: The Effects of Calibration and Uncertainty on Diversity Estimates. iScience.    
-* Marchant et al. 2016. Patterns of abiotic niche shifts in allopolyploids relative to their progenitors. New Phytologist.       
-* Gaynor et al. 2018. Climatic niche comparison among ploidal levels in the classic autopolyploid system, Galax urceolata. American Journal of Botany.       
-* Visger et al. 2016. Niche divergence between diploid and autotetraploid Tolmiea. American Journal of Botany.         
-* Wang et al. 2021. Potential distributional shifts in North America of allelopathic invasive plant species under climate change models. Plant Diversity.       
-* Gaynor et al. 2020. Biogeography and ecological niche evolution in Diapensiaceae inferred from phylogenetic analysis. Journal of Systematics and Evolution.       
-* Fitzpatrick and Turelli. 2006. The geography of mammalian speciation: Mixed signals from phylogenies and range maps. Evolution.       
-* Cardillo and Warren. 2016. Analysing patterns of spatial and niche overlap among species at multiple resolutions. Global Ecology and Biogeography.     
-* Jantzen et al. 2019. Effects of taxon sampling and tree reconstruction methods on phylodiversity metrics. Ecology and Evolution.    
-  
-
-### ENM vs SDM     
-Are Ecological Niche Models (ENMs) and Species Distribution Models (SDMs) the same?   
-
-* [Peterson and Soberon. 2012. Species Distribution Modeling and Ecological Niche Modeling: Getting the concepts right.](https://www.researchgate.net/profile/Jorge-Soberon/publication/255721977_Species_Distribution_Modeling_and_Ecological_Niche_Modeling_Getting_the_Concepts_Right/links/02e7e5358010c83287000000/Species-Distribution-Modeling-and-Ecological-Niche-Modeling-Getting-the-Concepts-Right.pdf)
-*  [Franklin. 2012. Mapping Species Distribution.](https://www.cambridge.org/core/books/mapping-species-distributions/58225AE5693AED8BD812F7CEBE35378A)
 
