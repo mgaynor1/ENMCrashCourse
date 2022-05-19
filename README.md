@@ -18,9 +18,9 @@ From 2017 - 2022, I continuously added to and created new workshop material for 
 
 I ended up updating and curating a pipeline for investigating ecological niche, which I am continuously updating as I learn more. This can be used to address many question.   
 
-This material includes: Data Downloading, Data Cleaning, Georeferencing, Climate Layer Processing,  Climatic Niche Analysis, Ecological Niche Modeling, and Ecological Niche Model Processing/Evaluation. Descriptions are currently being developed on this repositories wiki. 
+This material includes: Data Downloading, Data Cleaning, Georeferencing, Climate Layer Processing,  Climatic Niche Analysis, Ecological Niche Modeling, and Ecological Niche Model Processing/Evaluation. [Descriptions are currently being developed on this repositories wiki.](https://github.com/mgaynor1/ENMCrashCourse/wiki)     
 
-Many of the presentations build upon the work of numerous past Soltis lab members, I list these members below but could be missing many that worked on this material before my time here. Contributions by others are indicated on each script and an incomplete list can be found below. 
+Many of the presentations build upon the work of numerous past Soltis lab members, I list these members below but could be missing many that worked on this material before my time here. Contributions by others are indicated on each script and an incomplete list can be found below.  
 
 ## How to cite    
 These scripts have not been published just yet, so if you intend to use them, please cite by linking the repository in your method section as github.com/mgaynor1/ENMCrashCourse. For example "Models were developed for each species following available scripts (github.com/mgaynor1/ENMCrashCourse)." Note, a modification comment is when code is completely rewritten but the general theme is followed. Adding your working directory, looping through multiple taxa, or minor edits to update code to the latest package versions are not modifications that make this work yours, make sure to cite your source!
