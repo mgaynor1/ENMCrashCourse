@@ -8,15 +8,17 @@
 <center>
 🚧 This repository is currently under construction 🚧.  
       
-🚧 I am currently updatiing this material 🚧
+🚧 I am currently updating this material 🚧
 </center>
 
 # Introduction  
 
 
-From 2017 - 2022, I continuously added to and created new workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
+From 2017 - 2022, I continuously added to and created new workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" workshop which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts, and some extra's that I do not include in the workshop. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
 
-I ended up updating and curating a pipeline for investigating ecological niche, which I am continuously updating as I learn more. This can be used to address many question. 
+I ended up updating and curating a pipeline for investigating ecological niche, which I am continuously updating as I learn more. This can be used to address many question.   
+
+This material includes: Data Downloading, Data Cleaning, Georeferencing, Climate Layer Processing,  Climatic Niche Analysis, Ecological Niche Modeling, and Ecological Niche Model Processing/Evaluation. Descriptions are currently being developed on this repositories wiki. 
 
 Many of the presentations build upon the work of numerous past Soltis lab members, I list these members below but could be missing many that worked on this material before my time here. Contributions by others are indicated on each script and an incomplete list can be found below. 
 
@@ -36,52 +38,7 @@ If you are new to R-based coding, I suggest you start with [my Biodiversity Lite
 
 Note: Data Download, Data Cleaning + Georeferencing, Climatic Niche Processing, and Ecological Niche Modeling all have manual activities outside of R. These can all be found in the "Manual/" folder, while all R activities can be found in the "CrashCourse/" folder.   
 
-## 01 - Data Download  
-🚧   
-Manual Activity:    
- -  https://www.idigbio.org/portal/search
 
-
-
-
-## 02 - Data Cleaning   
-🚧
-
-Manual Activity:    
- - Gaynor, M. (2020). Cleaning Biodiversity Data: A Botanical Example Using Excel or RStudio. Biodiversity Literacy in Undergraduate Education, QUBES Educational Resources. doi:10.25334/DRGD-F069.
-
-
-## Georeferencing    
-By Blaine Marchant, Charlotte Germain Aubrey, Grant Godden, Andre Naranjo, and Pam Soltis.
-
-Biodiversity databases provide a wealth of occurrence data, which highlight the importance of these collections when investigating distribution of populations and species ranges, conservation planning and biodiversity management, and for classifying the ecological niche of a taxa. Natural History Collections began well before the availability of Global Positioning System (GPS), without exact geographic coordinates, descriptions of collections locality was recorded instead. Currently, iDigBio has 64,176,205 records missing a geopoint, or missing numerical geographic coordinates (5/17/2022). Georeferencing can be utilized to generate geopoints for specimen which currently lack them by converting qualitative locality descriptions into numerical unit.
-
-When converting descriptions into numeric units, uncertainty measurements can be included which allows data to be evaluated with regards to its fitness for research applications and overall data quality. Uncertainty in georeferencing represents the farthest distance the true value could be from the center of the indicated locality. There are many sources of uncertainty including:
- - Coordinate uncertainty
- - Map scale
- - GPS accuracy
- - Unknown datum
- - Imprecision in direction measurements
- - Imprecision in distance measurements
- - Extent of locality
-
-Here we provide specimen records without geopoints and provide instructions for georeferencing.
-
-Additional tutorial:     
- - Sorojsrisom, E., Johnson, M. (2022). Putting specimens on the map: An introduction to georeferencing. BCEENET- Biological Collections in Ecology & Evolution Network, QUBES Educational Resources. [doi:10.25334/CBTJ-PV50](https://doi.org/10.25334/CBTJ-PV50)     
- - [GBIF Georeferencing guide](https://docs.gbif.org/georeferencing-best-practices/1.0/en/#:~:text=In%20georeferencing%2C%20we%20use%20uncertainty,error%20given%20as%20a%20distance.)        
-
-## 03 - Climate Layer Processing    
-🚧    
-
-## 04 - Climatic Niche    
-🚧   
-
-## 05 - Ecological Niche Modeling   
-🚧   
-
-## 06 - ENM Processing    
-🚧   
 
 # Contributions
 Contributions are indicated on each script, but to summarize, contributions to these script or presentations have been made by many, including but not limited to: [Natalie Patten](https://github.com/nataliepatten), [Mike Belitz](https://github.com/mbelitz), [Rhett Rautsaw](https://github.com/RhettRautsaw), Maria Cortez, [Andre Naranjo](https://github.com/aanaranjo), [Lauren Whitehurst](https://github.com/laurenwhitehurst21), [Anthony Melton](https://github.com/meltonae), [Johanna Jantzen](https://github.com/jjantzen), Blaine Marchant, Charlotte Germain-Aubrey, Grant Godden, Doug Soltis, and Pam Soltis.     
