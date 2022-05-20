@@ -96,7 +96,9 @@ Short snibits of code I generated related to using Digitized Natural History Col
 - [Milton Tan](https://gist.github.com/mgaynor1/86cf5e5d741e3aa8a1a61c52bd667eb7)        
       - Milton wanted to know how to download records with the ridigbio API based on Institution ID and Catelog Number.   
 - [spocc_combine loop](https://gist.github.com/mgaynor1/f51b6735afc442f1338f244e6e0f9a9a)     
-      - One of my lab mates wanted to know how to use the spocc_combine function (which is an early edition of the gator_download() function) for a list of species. This gist shows how.
+      - One of my lab mates wanted to know how to use the spocc_combine function (which is an early edition of the gator_download() function) for a list of species. This gist shows how.     
+- [SERNEC-R](https://gist.github.com/mgaynor1/fe89d841b8768f2c4556d9fe6433079a)        
+      - We wanted to combined data downloaded via SERNEC with data download using early functions of the gators R package functions.        
 
 
 # Others Resources
