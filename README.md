@@ -6,17 +6,13 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 <center>
-🚧 This repository is currently under construction 🚧.  
-      
-🚧 I am currently updating this material  🚧
-
-🐊 Come back in Fall 2022 🐊  
+You can see the most uptodate version of these scripts here: [Botany ENM Workshop](https://github.com/soltislab/BotanyENMWorkshops). 
 </center>
 
 # Introduction  
 
 
-From 2017 - 2022, I continuously added to and created new workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" workshop which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts, and some extra's that I do not include in the workshop. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
+From 2017 - 2025, I continuously added to and created new workshop material for the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" workshop which the Soltis lab presents at the annual Botany meetings. Here is my current copy of working scripts, and some extra's that I do not include in the workshop. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
 
 I ended up updating and curating a pipeline for investigating ecological niche, which I am continuously updating as I learn more. This can be used to address many question.   
 
